@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Slider from 'react-slick';
+import Slider from 'react-slick'
 import { NavLink } from 'react-router-dom';
 import useProducts,{UseProductsResult, Product} from '../../hooks/apiHook';
 import ModalContent from '../../../pages/Home/HomeContent/ReadyForHalloween/Modal';
